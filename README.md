@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chloeylee (chloe lee)
-- 👾 I’m interested in game development, front-end/ui development, and web development
+- 👾 I’m interested in game development and front-end/uiux development
 - 📫 chloey.lee112@gmail.com
 - 👯‍♀️ Pronouns: she/her
 
